@@ -1,0 +1,17 @@
+**/.idea
+**/.vscode
+
+**/node_modules
+
+**/dist
+**/lib
+
+**/*.log
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

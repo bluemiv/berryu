@@ -1,0 +1,8 @@
+{
+  "name": "berryu",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "taehongkim <public.bluemiv@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.1"
+}
